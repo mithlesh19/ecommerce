@@ -1,5 +1,5 @@
 # ecommerce
-
+Its is MERN Stack ecommerce Project
 # Install Dependencies
 
 For Backend - npm i
