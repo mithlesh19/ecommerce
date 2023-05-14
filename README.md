@@ -1,5 +1,12 @@
 # ecommerce
 Its is MERN Stack ecommerce Project
+
+# Screenshot
+![](./Home page.png)
+![](./Login.png)
+![](./Signup page.png)
+![](./Product page.png)
+
 # Install Dependencies
 
 For Backend - npm i
