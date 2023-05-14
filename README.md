@@ -2,10 +2,10 @@
 Its is MERN Stack ecommerce Project
 
 # Screenshot
-![](./Home.png)
-![](./Login.png)
-![](./Signup.png)
-![](./Product.png)
+![Home](./Home.png)
+![Login](./Login.png)
+![Signup](./Signup.png)
+![Product](./Product.png)
 
 # Install Dependencies
 
